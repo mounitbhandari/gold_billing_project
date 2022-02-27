@@ -1,3 +1,6 @@
 [submodule "gold_billing_api"]
 	path = gold_billing_api
 	url = https://github.com/mounitbhandari/gold_billing_api.git
+[submodule "gold_billing_angular"]
+	path = gold_billing_angular
+	url = https://github.com/mounitbhandari/gold_billing_angular.git
